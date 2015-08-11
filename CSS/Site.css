@@ -1,0 +1,9 @@
+a {
+			border:2px solid limegreen;
+			padding:5px; 
+			margin:5px; 
+		-webkit-box-shadow: 3px 5px 300px 17px rgba(242,12,242,1);
+-moz-box-shadow: 3px 5px 300px 17px rgba(242,12,242,1);
+box-shadow: 3px 5px 300px 17px rgba(242,12,242,1);
+}
+	
